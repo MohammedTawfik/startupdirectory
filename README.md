@@ -2,18 +2,25 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Authentication
 
-We will use *Auth.js* library to handle the authorization
+We will use _Auth.js_ library to handle the authorization
 https://authjs.dev
 
 ### Installation
 
-* ```npm install next-auth@beta```
-* Then run this command ```npx auth secret``` to generate a secret key and store it in **_.env.local_** file
-* Check this [Link](https://authjs.dev/getting-started/installation?framework=Next.js) for more info about the
+- `npm install next-auth@beta`
+- Then run this command `npx auth secret` to generate a secret key and store it in **_.env.local_** file
+- Check this [Link](https://authjs.dev/getting-started/installation?framework=Next.js) for more info about the
   installation
-* Check this [Link](https://authjs.dev/getting-started/authentication/oauth) for the different OAuth authentication
+- Check this [Link](https://authjs.dev/getting-started/authentication/oauth) for the different OAuth authentication
   providers
-* Check this [Link](https://authjs.dev/getting-started/providers/github) for more info about how to setup Github OAuth
+- Check this [Link](https://authjs.dev/getting-started/providers/github) for more info about how to setup Github OAuth
+
+## Tailwind
+
+## Supported Packages
+
+- `np`
+
 ## Getting Started
 
 First, run the development server:
