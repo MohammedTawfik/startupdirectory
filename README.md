@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Features
+
+- Using custom local fonts
+- Authenticate using Auth.js package and authenticate with Github credentials
+
 ## Authentication
 
 We will use _Auth.js_ library to handle the authorization
