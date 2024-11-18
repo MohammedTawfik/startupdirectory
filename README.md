@@ -24,7 +24,8 @@ https://authjs.dev
 
 ## Supported Packages
 
-- `np`
+- `npm install @tailwindcss/typography`
+- `npm install tailwindcss-animate`
 
 ## Getting Started
 
@@ -39,6 +40,10 @@ pnpm dev
 # or
 bun dev
 ```
+
+## ShadCN
+
+- check this url for the CLI command to initialize the package
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
